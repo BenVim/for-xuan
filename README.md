@@ -40,6 +40,6 @@ Markdown语法说明
 
 ![图片](https://a248.e.akamai.net/assets.github.com/images/modules/dashboard/bootcamp/octocat_fork.png?3e6a2db5)
 
-### 代码引用 一个\tab缩进
+### 代码引用 两个制表符tab 或 8个空格
 
-  console.log('一个tab缩进就是代码引用的效果了')
+    console.log('一个tab缩进就是代码引用的效果了')
