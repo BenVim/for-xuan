@@ -42,4 +42,4 @@ Markdown语法说明
 
 ### 代码引用 一个\tab缩进
 
-  console.log('一个tab缩进就是代码引用<pre><code>的效果了')
+  console.log('一个tab缩进就是代码引用的效果了')
